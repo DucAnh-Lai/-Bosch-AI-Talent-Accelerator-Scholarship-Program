@@ -70,6 +70,6 @@ Other Jupyter Notebooks :
 
 `etl.ipynb`: Explaination step by step the file `etl.py`
 
-`test.ipynb`: to test the requirements of database.
+`test.ipynb`: Test the requirements of database.
 
 
