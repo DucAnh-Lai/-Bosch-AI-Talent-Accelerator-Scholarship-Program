@@ -61,5 +61,15 @@ time
         year
         weekday
 ```
+### Program
+By running `python3 create_tables`, new database and tables would be generated.
+
+By running `python3 etl.py` the data from 2 table `log_data` and `song_data` would be loaded and inserted in `fact_table`.
+
+Other Jupyter Notebooks : 
+
+`etl.ipynb`: Explaination step by step the file `etl.py`
+
+`test.ipynb`: to test the requirements of database.
 
 
