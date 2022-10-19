@@ -51,6 +51,9 @@ Coming with linked 4 dimension tables:
 
 The schema is designed base on Star- Schema. This schema helps users saving time by delivering quicker results within minimum number of "SQL-JOIN". 
 
+
+![EDP Diagram](https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/issues/1#issue-1415343842)
+
 In AWS S3 Bucket there are 2 tables: `staging_events` and `staging_events`. Two tables act as "staging" or "parking" tables where data is imported in AWS Redshift.
 
 
