@@ -7,20 +7,17 @@
 <!-- Add buttons here -->
 [![Language](https://img.shields.io/badge/Python-3.9%2B-brightgreen?style=flat&logo=Python)](https://www.python.org/downloads/release/python-365/) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=red&include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=yellow)
-![GitHub issues](https://img.shields.io/github/issues-raw/djanmagno/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=orange)
+![GitHub issues](https://img.shields.io/github/issues-raw/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=orange)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=blueviolet)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin)]()
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/duc-anh-lai-2592046b/)
 
 
 > Postgres, Cassandra, AWS, RedShift, S3, EMR, Spark, Airflow, ETL, ELT, Data Modelling, Database Schema, Data Warehousing, Data Lakes, Data Engineering, Udacity
 
 <p align="center">
- </a>
  <h1 align="center">Bosch AI Talent Accelerator Program</h1>
- <p align="center">
-  Udacity Nanodegree
-  <br />
- </p>
+ <p align="center">Udacity Nanodegree</p1>
+</p>
 
 
 # Program Introduction
@@ -34,9 +31,9 @@ There are 3 nanodegree program tracks can be chosen:
 *See [udacity-link](https://www.udacity.com/scholarships/bosch-ai-talent-accelerator) for more information about program.*
 
 # Program Timeline
-Start date: 18.07.2022
+Start date: 18.07.2022.
 
-End date: 18.11.2022
+End date: 18.11.2022.
 
 # Nanodegree Program Track: Data Engineer for AI Application 
 Data engineering is an integral part of designing smart, connected, and autonomous technologies. Enroll in this track to build functional and innovative data infrastructure that can be applied to AI projects.
