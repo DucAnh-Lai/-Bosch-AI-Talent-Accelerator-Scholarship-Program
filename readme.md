@@ -9,13 +9,21 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=yellow)
 ![GitHub issues](https://img.shields.io/github/issues-raw/djanmagno/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=orange)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=blueviolet)
-![GitHub](https://img.shields.io/github/license/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=yellowgreen)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin)]()
 
 
 > Postgres, Cassandra, AWS, RedShift, S3, EMR, Spark, Airflow, ETL, ELT, Data Modelling, Database Schema, Data Warehousing, Data Lakes, Data Engineering, Udacity
 
-# Bosch AI Talent Accelerator Program
+<p align="center">
+ </a>
+ <h1 align="center">Bosch AI Talent Accelerator Program</h1>
+ <p align="center">
+  Udacity Nanodegree
+  <br />
+ </p>
+
+
+# Program Introduction
 Bosch and Udacity teamed up to create a scholarship focused on building a pipeline of qualified AI professionals to expand and deploy cutting-edge technologies at Bosch.
 Only qualified candidate can attend the program and go through 7 projects with focus on AI Application.
 There are 3 nanodegree program tracks can be chosen: 
