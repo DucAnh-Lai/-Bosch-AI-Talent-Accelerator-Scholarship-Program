@@ -4,6 +4,17 @@
 </p>
 
 
+<!-- Add buttons here -->
+[![Language](https://img.shields.io/badge/Python-3.9%2B-brightgreen?style=flat&logo=Python)](https://www.python.org/downloads/release/python-365/) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=red&include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=yellow)
+![GitHub issues](https://img.shields.io/github/issues-raw/djanmagno/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=orange)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=blueviolet)
+![GitHub](https://img.shields.io/github/license/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=yellowgreen)
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin)]()
+
+
+> Postgres, Cassandra, AWS, RedShift, S3, EMR, Spark, Airflow, ETL, ELT, Data Modelling, Database Schema, Data Warehousing, Data Lakes, Data Engineering, Udacity
+
 # Bosch AI Talent Accelerator Program
 Bosch and Udacity teamed up to create a scholarship focused on building a pipeline of qualified AI professionals to expand and deploy cutting-edge technologies at Bosch.
 Only qualified candidate can attend the program and go through 7 projects with focus on AI Application.
@@ -27,4 +38,14 @@ Data engineering is an integral part of designing smart, connected, and autonomo
 * Spark and data lakes
 * Automate data pipelines
 * Cloud native fundamentals
+
+<!-- LICENSE -->
+
+## License
+
+[(Back to top)](#table-of-contents)
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+[MIT License](https://opensource.org/licenses/MIT)
 * Message passing
