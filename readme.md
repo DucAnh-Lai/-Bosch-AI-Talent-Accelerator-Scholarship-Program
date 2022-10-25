@@ -12,7 +12,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/duc-anh-lai-2592046b/)
 
 
-> Postgres, Cassandra, AWS, RedShift, S3, EMR, Spark, Airflow, ETL, ELT, Data Modelling, Database Schema, Data Warehousing, Data Lakes, Data Engineering, Udacity
+> Postgres, Cassandra, AWS, RedShift, S3, EMR, Spark, Airflow
+
+
+> ELT, Data Modelling, Database Schema, Data Warehousing, Data Lakes, Data Engineering
 
 <p align="center">
  <h1 align="center">Bosch AI Talent Accelerator Program</h1>
