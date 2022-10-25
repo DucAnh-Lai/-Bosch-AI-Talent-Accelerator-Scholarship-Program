@@ -38,14 +38,12 @@ Data engineering is an integral part of designing smart, connected, and autonomo
 * Spark and data lakes
 * Automate data pipelines
 * Cloud native fundamentals
+* Message passing
 
 <!-- LICENSE -->
 
 ## License
-
-[(Back to top)](#table-of-contents)
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 [MIT License](https://opensource.org/licenses/MIT)
-* Message passing
+
