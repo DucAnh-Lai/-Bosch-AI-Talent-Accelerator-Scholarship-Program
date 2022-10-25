@@ -63,8 +63,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [contributors-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program.svg?style=flat-square
 [forks-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/network/members
-[stars-shield]: https://img.shields.io/github/stars/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[stars-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/stargazers
+[stars-shield]: https://img.shields.io/github/stars/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program.svg?style=flat-square
+[stars-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/stargazers
 [issues-shield]: https://img.shields.io/github/issues/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program.svg?style=flat-square
 [issues-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
