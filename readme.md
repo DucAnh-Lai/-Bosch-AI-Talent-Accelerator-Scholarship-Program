@@ -40,6 +40,15 @@ Data engineering is an integral part of designing smart, connected, and autonomo
 * Cloud native fundamentals
 * Message passing
 
+## Educational Objectives:
+
+* Create user-friendly relational and NoSQL data models
+* Create scalable and efficient data warehouses
+* Work efficiently with massive datasets
+* Build and interact with a cloud-based data lake
+* Automate and monitor data pipelines
+* Develop proficiency in Spark, Airflow, and AWS tools
+
 <!-- LICENSE -->
 
 ## License
