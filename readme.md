@@ -4,12 +4,7 @@
 </p>
 
 
-<!-- Add buttons here -->
-[![Language](https://img.shields.io/badge/Python-3.9%2B-brightgreen?style=flat&logo=Python)](https://www.python.org/downloads/release/python-365/) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=red&include_prereleases)
-![GitHub last commit](https://img.shields.io/github/last-commit/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=yellow)
-![GitHub issues](https://img.shields.io/github/issues-raw/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=orange)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program?color=blueviolet)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/duc-anh-lai-2592046b/)
+![Language](https://img.shields.io/badge/language-python--3.7-blue) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 > Postgres, Cassandra, AWS, RedShift, S3, EMR, Spark, Airflow
@@ -62,5 +57,17 @@ Data engineering is an integral part of designing smart, connected, and autonomo
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-[MIT License](https://opensource.org/licenses/MIT)
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program.svg?style=flat-square
+[contributors-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program.svg?style=flat-square
+[forks-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/network/members
+[stars-shield]: https://img.shields.io/github/stars/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
+[stars-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program.svg?style=flat-square
+[issues-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/issues
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://github.com/DucAnh-Lai/Bosch-AI-Talent-Accelerator-Scholarship-Program/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/duc-anh-lai-2592046b/
